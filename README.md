@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Estudando Ciência da Computação
+- 🔭 Estudando Arquitetura de Software & Ciência de Dados
 
-- 🌱 Atualmente estou aprendendo Java Script
+- 🌱 Atualmente estou me desenvolvendo em Python
 
 - 💬 Fascinado por Tecnologia
 
