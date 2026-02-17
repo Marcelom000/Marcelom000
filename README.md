@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estudando Arquitetura de Software & Ciência de Dados
+- 🔭 Pós Graduando em Arquitetura de Software & Ciência de Dados
 
 - 🌱 Atualmente estou me desenvolvendo em Python
 
